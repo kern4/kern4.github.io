@@ -32,7 +32,7 @@ Publications
 1. **Kern, J. L.**, and Culpepper, S. A. (2020). A restricted four-parameter IRT model: The dyad four-parameter normal ogive (Dyad-4PNO) model. *Psychometrika*, 85(3), 575--599. doi: 10.1007/s11336-020-09716-3
 2. Guo, S., Zheng, C., and **Kern, J. L.** (2020). IRTBEMM: An R package for estimating IRT models with guessing or slippling parameters. *Applied Psychological Measurement*, 44(6--7), 566--567. doi: 10.1177/0146621620932654
 3. Du, Y. and **Kern, J. L.** (2020). The four-parameter normal ogive model with response times. In M. Wiberg, D. Molenaar, J. González, U. Böckenholt, & J.-S. Kim (Eds.), *Quantitative Psychology: The 84th Annual Meeting of the Psychometric Society, Santiago, Chile*. (pp. 55--67). New York, NY: Springer.
-4. Parthasarathy, R., Garfield, M., Rangarajan, A., **Kern, J. L.** (Accepted, 2020). The case of organizational innovation capability and health information technology implementation success: As you sow, so you reap?. *International Journal of Healthcare Information Systems and Informatics*.
+4. Parthasarathy, R., Garfield, M., Rangarajan, A., **Kern, J. L.** (Accepted, 2020). The case of organizational innovation capability and health information technology implementation success: As you sow, so you reap? *International Journal of Healthcare Information Systems and Informatics*.
 5. Parthasarathy, R., **Kern, J. L.**, Knight, J., R., and Wyant, D. K. (2019). A conceptual model of the role of relative advantage, compatibility and complexity in electronic medical records implementation success. *MWAIS 2019 Proceedings*, 26.
 6. Culpepper, S. A., Aguinas, H., **Kern, J. L.**, and Millsap, R. E. (2019). High-stakes testing case study: A latent variable approach for assessing measurement and prediction invariance. *Psychometrika*, 84(1), 285--309. doi: 10.1007/s11336-018-9649-2
 7. Lim, Y. S., Drasgow, F., and **Kern, J. L.** (2019). Estimation of the parameters of the reduced RUM model by simulated annealing. *Psychological Test and Assessment Modeling*, 61(2), 187--205.
@@ -48,12 +48,13 @@ Publications
 17. **Kern, J. L.** (2015). \[Review of the book *Advancing methodologies to support both summative and formative assessments*, by Y. Cheng & H.-H. Chang\]. *Applied Psychological Measurement*, 39(7), 575--578. doi: 10.1177/0146621615595498
 18. Laxman, D. J., McBride, B. A., Jeans, L. M., Dyer, W. J., Santos, R. M., **Kern, J. L.**, Sugimura, N., Curtiss, S. L., and Weglarz-Ward, J. (2015). Father involvement and maternal depressive symptoms in families of children with disabilities or delays. *Maternal and Child Health Journal*, 19(5), 1078--1086. doi: 10.1007/s10995-014-1608-7
 
-
+{% comment %}
 Talks
 ======
   <ul>{% for post in site.talks %}
     {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
+
   
 Teaching
 ======
@@ -64,3 +65,5 @@ Teaching
 Service and leadership
 ======
 * Currently signed in to 43 different slack teams
+
+{% endcomment %}
