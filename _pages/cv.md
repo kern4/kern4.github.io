@@ -29,6 +29,13 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 {% endcomment %}
+1. **Kern, J. L.**, and Culpepper, S. A. (2020). A restricted four-parameter IRT model: The dyad four-parameter normal ogive (Dyad-4PNO) model. *Psychometrika*, 85(*3*), 575--599. doi: 10.1007/s11336-020-09716-3
+2. Guo, S., Zheng, C., and **Kern, J. L.** (2020). IRTBEMM: An R package for estimating IRT models with guessing or slippling parameters. *Applied Psychological Measurement*, 44(*6--7*), 566--567. doi: 10.1177/0146621620932654
+3.
+4.
+5.
+6.
+
 Talks
 ======
   <ul>{% for post in site.talks %}
