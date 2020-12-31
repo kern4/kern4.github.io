@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I'm Justin, and I am an Assistant Professor at the University of Illinois at Urbana-Champaign in the [Department of Educational Psychology](https://education.illinois.edu/edpsy). Specifically, I'm a member of the [QUERIES (Quantitative and Qualitative Methodology, Measurement, and Evaluation)](https://education.illinois.edu/edpsy/programs-degrees/queries) division. I like to think of QUERIES as the methods shop of the [College of Education](https://education.illinois.edu/). I align myself strongly as quantitative methodologist specializing in measurement and statistics as applied to education, psychology, and the behavioral sciences in general. Outside of my work, I like to spend time with my wife and cat, play music, and root for the Fighting Illini and for my beloved Detroit sports teams.
+Hello! I'm Justin, and I am an Assistant Professor at the University of Illinois at Urbana-Champaign in the [Department of Educational Psychology](https://education.illinois.edu/edpsy). Specifically, I'm a member of the [QUERIES](https://education.illinois.edu/edpsy/programs-degrees/queries) (Quantitative and Qualitative Methodology, Measurement, and Evaluation) division. I like to think of QUERIES as the methods shop of the [College of Education](https://education.illinois.edu/). I align myself strongly as quantitative methodologist specializing in measurement and statistics as applied to education, psychology, and the behavioral sciences in general. Outside of my work, I like to spend time with my wife and cat, play music, and root for the Fighting Illini and for my beloved Detroit sports teams.
 
 My work and research
 ------
